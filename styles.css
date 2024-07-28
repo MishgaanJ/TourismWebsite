@@ -248,6 +248,9 @@ marquee {
 #frame1 #responsive5 {
   display: none;
 }
+#frame1 #responsive6 {
+  display: none;
+}
 #frame1 #frame2 {
   display: flex;
   flex-direction: row;
